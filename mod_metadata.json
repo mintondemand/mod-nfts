@@ -1,0 +1,11 @@
+{
+	"name": "MOD Membership",
+	"description": "Empowering Ordinary People to Create Extraordinary Identities\nWearable NFTs for the Metaverse and Web3\nEASILY CREATE AND SELL WEARABLES & ACCESSORIES FOR THE METAVERSE\nLearn more at https: //www.getmod.art/\nStake Your MOD\nhttps://nft.getmod.art/stake",
+	"animation_url": "https://raw.githubusercontent.com/mintondemand/mod-nfts/main/animation.gif",
+	"external_url": "https://www.getmod.art/",
+	"image": "https://raw.githubusercontent.com/mintondemand/mod-nfts/main/MOD%20Genesis%20NFT.png",
+	"attributes": [{
+		"trait_type": "Rarity",
+		"value": "Standard"
+	}]
+}
